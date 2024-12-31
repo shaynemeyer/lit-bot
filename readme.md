@@ -2,6 +2,10 @@
 
 A simple chatbot written with Python, Langchain, and Streamlit. Uses `llama3.2` for LLM running locally via Ollama.
 
+![](docs/app-screen.png)
+
+---
+
 ## Setup
 
 ### Create a virtual environment
